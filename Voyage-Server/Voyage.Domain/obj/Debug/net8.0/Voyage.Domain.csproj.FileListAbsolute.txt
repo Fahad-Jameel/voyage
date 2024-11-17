@@ -1,0 +1,14 @@
+C:\Users\adila\source\repos\Voyage\Voyage.Domain\bin\Debug\net8.0\Voyage.Domain.deps.json
+C:\Users\adila\source\repos\Voyage\Voyage.Domain\bin\Debug\net8.0\Voyage.Domain.runtimeconfig.json
+C:\Users\adila\source\repos\Voyage\Voyage.Domain\bin\Debug\net8.0\Voyage.Domain.dll
+C:\Users\adila\source\repos\Voyage\Voyage.Domain\bin\Debug\net8.0\Voyage.Domain.pdb
+C:\Users\adila\source\repos\Voyage\Voyage.Domain\obj\Debug\net8.0\Voyage.Domain.csproj.AssemblyReference.cache
+C:\Users\adila\source\repos\Voyage\Voyage.Domain\obj\Debug\net8.0\Voyage.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adila\source\repos\Voyage\Voyage.Domain\obj\Debug\net8.0\Voyage.Domain.AssemblyInfoInputs.cache
+C:\Users\adila\source\repos\Voyage\Voyage.Domain\obj\Debug\net8.0\Voyage.Domain.AssemblyInfo.cs
+C:\Users\adila\source\repos\Voyage\Voyage.Domain\obj\Debug\net8.0\Voyage.Domain.csproj.CoreCompileInputs.cache
+C:\Users\adila\source\repos\Voyage\Voyage.Domain\obj\Debug\net8.0\Voyage.Domain.dll
+C:\Users\adila\source\repos\Voyage\Voyage.Domain\obj\Debug\net8.0\refint\Voyage.Domain.dll
+C:\Users\adila\source\repos\Voyage\Voyage.Domain\obj\Debug\net8.0\Voyage.Domain.pdb
+C:\Users\adila\source\repos\Voyage\Voyage.Domain\obj\Debug\net8.0\Voyage.Domain.genruntimeconfig.cache
+C:\Users\adila\source\repos\Voyage\Voyage.Domain\obj\Debug\net8.0\ref\Voyage.Domain.dll

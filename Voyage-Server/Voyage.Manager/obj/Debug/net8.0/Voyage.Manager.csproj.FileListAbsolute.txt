@@ -1,0 +1,15 @@
+C:\Users\adila\source\repos\Voyage\Voyage.Manager\bin\Debug\net8.0\Voyage.Manager.deps.json
+C:\Users\adila\source\repos\Voyage\Voyage.Manager\bin\Debug\net8.0\Voyage.Manager.dll
+C:\Users\adila\source\repos\Voyage\Voyage.Manager\bin\Debug\net8.0\Voyage.Manager.pdb
+C:\Users\adila\source\repos\Voyage\Voyage.Manager\bin\Debug\net8.0\Voyage.Domain.dll
+C:\Users\adila\source\repos\Voyage\Voyage.Manager\bin\Debug\net8.0\Voyage.Domain.pdb
+C:\Users\adila\source\repos\Voyage\Voyage.Manager\obj\Debug\net8.0\Voyage.Manager.csproj.AssemblyReference.cache
+C:\Users\adila\source\repos\Voyage\Voyage.Manager\obj\Debug\net8.0\Voyage.Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adila\source\repos\Voyage\Voyage.Manager\obj\Debug\net8.0\Voyage.Manager.AssemblyInfoInputs.cache
+C:\Users\adila\source\repos\Voyage\Voyage.Manager\obj\Debug\net8.0\Voyage.Manager.AssemblyInfo.cs
+C:\Users\adila\source\repos\Voyage\Voyage.Manager\obj\Debug\net8.0\Voyage.Manager.csproj.CoreCompileInputs.cache
+C:\Users\adila\source\repos\Voyage\Voyage.Manager\obj\Debug\net8.0\Voyage.M.07E0A91B.Up2Date
+C:\Users\adila\source\repos\Voyage\Voyage.Manager\obj\Debug\net8.0\Voyage.Manager.dll
+C:\Users\adila\source\repos\Voyage\Voyage.Manager\obj\Debug\net8.0\refint\Voyage.Manager.dll
+C:\Users\adila\source\repos\Voyage\Voyage.Manager\obj\Debug\net8.0\Voyage.Manager.pdb
+C:\Users\adila\source\repos\Voyage\Voyage.Manager\obj\Debug\net8.0\ref\Voyage.Manager.dll

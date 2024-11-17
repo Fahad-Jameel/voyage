@@ -1,0 +1,118 @@
+[
+  {
+    "ContainingType": "Voyage.API.Controllers.BookingsController",
+    "Method": "CreateBooking",
+    "RelativePath": "Bookings/CreateBooking",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bookingsRequestDTO",
+        "Type": "Voyage.API.DTOs.BookingsDTOs.BookingsRequestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Voyage.API.Controllers.DashboardController",
+    "Method": "GetCities",
+    "RelativePath": "Dashboard/GetCitiesList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Voyage.API.Controllers.DashboardController",
+    "Method": "GetUserRecommendations",
+    "RelativePath": "Dashboard/GetUserRecommendations",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Voyage.API.Controllers.TicketsController",
+    "Method": "GetAvailableTickets",
+    "RelativePath": "Tickets/GetAvailableTickets",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "searchTicketsRequestDTO",
+        "Type": "Voyage.API.DTOs.TicketsDTOs.SearchTicketsRequestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Voyage.API.Controllers.UserProfileController",
+    "Method": "AuthenticateUser",
+    "RelativePath": "UserProfile/AuthenticateUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userAuthenticationDTO",
+        "Type": "Voyage.API.DTOs.UserDTOs.UserAuthenticationDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Voyage.API.Controllers.UserProfileController",
+    "Method": "CreateUserProfile",
+    "RelativePath": "UserProfile/CreateUserProfile",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userProfileCreationDTO",
+        "Type": "Voyage.API.DTOs.UserDTOs.UserProfileCreationDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Voyage.API.Controllers.UserProfileController",
+    "Method": "GetUserProfile",
+    "RelativePath": "UserProfile/GetUserProfile",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Voyage.API.Controllers.UserProfileController",
+    "Method": "UpdateUserProfile",
+    "RelativePath": "UserProfile/UpdateUserProfile",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userProfileUpdationDTO",
+        "Type": "Voyage.API.DTOs.UserDTOs.UserProfileUpdatingDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

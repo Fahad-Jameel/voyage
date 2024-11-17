@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\adila\source\repos\Voyage\Voyage.API\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2024-11-17T11:33:16.2800229Z||;True|2024-11-17T16:22:26.4667901+05:00||;True|2024-11-17T16:14:38.9006326+05:00||;True|2024-11-17T15:55:00.5895592+05:00||;True|2024-11-17T15:39:27.7866655+05:00||;True|2024-11-17T15:35:46.1923638+05:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
